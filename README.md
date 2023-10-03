@@ -42,11 +42,15 @@
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaumebidallier&show_icons=true&locale=en&layout=compact" alt="guillaumebidallier" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumebidallier&" alt="guillaumebidallier" width="770" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaumebidallier&show_icons=true&locale=en&layout=compact" alt="guillaumebidallier" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guillaumebidallier&show_icons=true&locale=en" alt="guillaumebidallier" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillaumebidallier&show_icons=true&locale=en" alt="guillaumebidallier" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumebidallier&" alt="guillaumebidallier" /></p>
 
 
 <!--
