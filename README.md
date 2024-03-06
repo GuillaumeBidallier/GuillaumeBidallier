@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/bidallierg" target="blank"><img src="https://img.shields.io/twitter/follow/bidallierg?logo=twitter&style=for-the-badge" alt="bidallierg" /></a> </p>
 
-- 🔭 I’m currently working on **the REACT language**
-
-- 🌱 I’m currently learning **Javascript, React, NodeJS...**
-
 - 👨‍💻 All of my projects are available at [my portfolio](my portfolio)
 
 - 📫 How to reach me **bidallierguillaume@gmail.com**
